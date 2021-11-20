@@ -82,7 +82,7 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
 </p>
 
 
-<p align="center">
+<p align="right">
     <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
 </p>
 
