@@ -15,8 +15,8 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/uniqueredhat)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-red?style=flat&labelColor=c13584&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/uniqueredhat/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rajeshkumar02)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-red?style=flat&labelColor=c13584&logo=hackerrank&logoColor=white)](https://github.com/Rajeshkumar02)
 
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for New programming method;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
-- 📫 How to reach me: [rk9166771@gmail.com@gmail.com](mailto:rk9166771@gmail.com) ;
+- 📫 How to reach me: [rk9166771@gmail.com](mailto:rk9166771@gmail.com) ;
 
 <div align="right">
     <img align="right" src="https://github.com/uniqueredhat/uniqueredhat/blob/main/Developer.gif" />
