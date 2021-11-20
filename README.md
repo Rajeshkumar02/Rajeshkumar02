@@ -30,7 +30,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: [rk9166771@gmail.com](mailto:rk9166771@gmail.com) ;
 
 <div align="right">
-    <img align="right" src="https://github.com/uniqueredhat/uniqueredhat/blob/main/Developer.gif" />
+    <img align="right" src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/Developer.gif" />
 </div>
 
 
@@ -79,8 +79,8 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-    <a href="https://github.com/uniqueredhat"><img title="Uniqueredhat"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniqueredhat&layout=compact"></a>
+    <a href="https://github.com/Rajeshkumar02"><img title="Rajeshkumar"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar02&layout=compact"></a>
 </p>
 
 
@@ -90,15 +90,15 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
 
 <div align="right">
     <a href="https://github.com/Rajeshkumar02">
-        <img align="left" alt="Uniqueredhat's Github" width="22px"
+        <img align="left" alt="Rajeshkumar's Github" width="22px"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
     </a>
     <a href="https://t.me/Rajeshkumar202">
-        <img align="left" alt="Uniqueredhat's Telegram" width="22px"
+        <img align="left" alt="Rajeshkumar's Telegram" width="22px"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
     </a>
     <a href="https://www.hackerrank.com/19cs1231">
-        <img align="left" alt="Uniqueredhat Hackerrank" width="22px"
+        <img align="left" alt="Rajeshkumar's Hackerrank" width="22px"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
     </a>
 </div>
