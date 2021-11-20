@@ -35,9 +35,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/uniqueredhat)
+- ![Profile views](https://gpvc.arturio.dev/Rajeshkumar02)
 - [![GitHub
-followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/uniqueredhat?tab=followers)
+followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Rajeshkumar02?tab=followers)
 
 <p align="left">
     <img width="55%" align="left"
