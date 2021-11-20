@@ -41,7 +41,7 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
 
 <p align="left">
     <img width="55%" align="left"
-        src="https://github-readme-stats.vercel.app/api?username=uniqueredhat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+        src="https://github-readme-stats.vercel.app/api?username=Rajeshkumar02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 <p align="right">
