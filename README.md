@@ -1,5 +1,4 @@
-### RAJESHKUMAR S (INDIA )👋 &nbsp;<img
-    src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/wolf-running.gif" width="24px">
+### RAJESHKUMAR S (INDIA )👋 &nbsp;
 <p align="center">
     <img src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/wolf-running.gif" width="300%">
 <div align="center">
