@@ -47,7 +47,6 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
 <p align="right">
     <br />
     <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></code>
     <code><img width="10%"  src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
     <br />
     <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -57,7 +56,6 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
     <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
     <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
     <br />
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
     <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
     <!-- <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code> -->
     <br>
