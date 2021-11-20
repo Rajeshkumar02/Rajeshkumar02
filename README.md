@@ -86,7 +86,7 @@ followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social
     <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
 </p>
 
-<div align="right">
+<div align="center">
     <a href="https://github.com/Rajeshkumar02">
         <img align="left" alt="Rajeshkumar's Github" width="22px"
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
