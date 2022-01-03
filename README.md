@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar02&label=undefined&color=undefined&style=undefined" alt="rajeshkumar02" /> </p>
-
 
 
 - 🔭 I’m currently working on [https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation](https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation)
