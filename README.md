@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar02&label=undefined&color=undefined&style=undefined" alt="rajeshkumar02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkumar02" alt="rajeshkumar02" /></a> </p>
+
 
 - 🔭 I’m currently working on [https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation](https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation)
 
