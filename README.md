@@ -1,102 +1,26 @@
-### RAJESHKUMAR S (INDIA )👋 &nbsp;
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/wolf-running.gif" width="300%">
-<div align="center">
-</div>
-<p align="center">
-    <a href="https://t.me/Rajeshkumar202"><img title="Telegram Channel"
-            src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://www.hackerrank.com/19cs1231"><img title="HackerRank"
-            src="https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=hackerrank"></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar02&label=undefined&color=undefined&style=undefined" alt="rajeshkumar02" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkumar02" alt="rajeshkumar02" /></a> </p>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rajeshkumar02)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-red?style=flat&labelColor=c13584&logo=hackerrank&logoColor=white)](https://github.com/Rajeshkumar02)
+- 🔭 I’m currently working on [https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation](https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation)
 
-<!--rule -->
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-
-&nbsp;
-- 👨🏽‍💻 HELLO I’m Rajeshkumar S ;
-- 🌱 I’m currently learning Python, React ;
-- 🤔 I’m looking for New programming method;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ I'm Still Student;
-- 📫 How to reach me: [rk9166771@gmail.com](mailto:rk9166771@gmail.com) ;
-
-<div align="right">
-    <img align="right" src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/Developer.gif" />
-</div>
-
-
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/Rajeshkumar02)
-- [![GitHub
-followers](https://img.shields.io/github/followers/uniqueredhat.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Rajeshkumar02?tab=followers)
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img width="55%" align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Rajeshkumar02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://linkedin.com/in/rajeshkumar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshkumar2002" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rajeshkumar-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rajeshkumar-s" height="30" width="40" /></a>
+<a href="https://kaggle.com/rajesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajesh2002" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.s.i.x_2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.s.i.x_2k2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/19cs1231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="19cs1231" height="30" width="40" /></a>
 </p>
 
-<p align="right">
-    <br />
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
-    <br />
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"></code>
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-    <br />
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-    <br />
-    <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-    <!-- <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code> -->
-    <br>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<!--rule -->
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<h3 align="left">Support:</h3>
+<p></p><br><br>
 
-<p align="center">
-    <a href="https://github.com/uniqueredhat/fileEncryption"><img title="fileEncryption"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=uniqueredhat&repo=fileEncryption&theme=radical"></a>
-</p>
-<p align="center">
-    <a href="https://github.com/uniqueredhat/File-Encryption"><img title="File-Encryption"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=uniqueredhat&repo=File-Encryption&theme=highcontrast"></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshkumar02&show_icons=true&layout=compact" alt="rajeshkumar02" /></p>
 
-<!--rule -->
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeshkumar02&show_icons=true" alt="rajeshkumar02" /></p>
 
-<p align="center">
-    <a href="https://github.com/Rajeshkumar02"><img title="Rajeshkumar"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar02&layout=compact"></a>
-</p>
-
-
-<p align="left">
-    <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
-</p>
-
-<div align="right">
-    <a href="https://github.com/Rajeshkumar02">
-        <img align="left" alt="Rajeshkumar's Github" width="22px"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-    </a>
-    <a href="https://t.me/Rajeshkumar202">
-        <img align="left" alt="Rajeshkumar's Telegram" width="22px"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-    </a>
-    <a href="https://www.hackerrank.com/19cs1231">
-        <img align="left" alt="Rajeshkumar's Hackerrank" width="22px"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-    </a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumar02&" alt="rajeshkumar02" /></p>
