@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/wolf-running.gif" width="15%">
 
 - 🔭 I’m currently working on [https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation](https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation)
-
+- 📫 How to reach me **dev.rajeshkumars@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajeshkumar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshkumar2002" height="30" width="40" /></a>
