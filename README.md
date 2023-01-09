@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/Rajeshkumar02/Rajeshkumar02/main/wolf-running.gif" width="15%">
 
-- 🔭 I’m currently working on [https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation](https://github.com/Rajeshkumar02/Mentor-Mentee_Applicaation)
 - 📫 How to reach me **dev.rajeshkumars@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
